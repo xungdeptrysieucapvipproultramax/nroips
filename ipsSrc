@@ -1,11 +1,11 @@
 [
 {
-  "nameServer": "Máy Chủ 1",
-  "address": "antiv2.xunglord.com",
-  "port": 1011,
+  "nameServer": "CBR 2tr Bao Mod",
+  "address": "anti.xunglord.com",
+  "port": 1010,
   "language": 0,
   "typeSv": 1,
-  "homeUrl": "caubenro.online",
+  "homeUrl": "xunglord.com-zalo 0388001659",
   "logoUrl": "",
   "isUnLockOptionTemplate": 0,
   "listPorata": "454,921,1541,1255,1324,1514",
@@ -15,12 +15,12 @@
   "isBankQr": 1
 },
 {
-  "nameServer": "Máy Chủ Tân Binh",
+  "nameServer": "Future 2Tr Bao Mod",
   "address": "antiv2.xunglord.com",
   "port": 1011,
   "language": 0,
   "typeSv": 1,
-  "homeUrl": "caubenro.online",
+  "homeUrl": "xunglord.com-zalo 0388001659",
   "logoUrl": "",
   "isUnLockOptionTemplate": 0,
   "listPorata": "454,921,1541,1255,1324,1514",
@@ -30,18 +30,18 @@
   "isBankQr": 1
 },
 {
-  "nameServer": "Liên Server",
+  "nameServer": "NroGoc 99k",
   "address": "antiv2.xunglord.com",
-  "port": 1011,
+  "port": 1012,
   "language": 0,
-  "typeSv": 1,
-  "homeUrl": "caubenro.online",
+  "typeSv": 0,
+  "homeUrl": "xunglord.com-zalo 0388001659",
   "logoUrl": "",
   "isUnLockOptionTemplate": 0,
   "listPorata": "454,921,1541,1255,1324,1514",
   "typeReadHpMod": 0,
-  "typeGetParam": 1,
+  "typeGetParam": 0,
   "isPaintRuby": 2,
-  "isBankQr": 1
+  "isBankQr": 0
 }
 ]
