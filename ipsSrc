@@ -1,1 +1,47 @@
-
+[
+{
+  "nameServer": "Máy Chủ 1",
+  "address": "antiv2.xunglord.com",
+  "port": 1011,
+  "language": 0,
+  "typeSv": 1,
+  "homeUrl": "caubenro.online",
+  "logoUrl": "",
+  "isUnLockOptionTemplate": 0,
+  "listPorata": "454,921,1541,1255,1324,1514",
+  "typeReadHpMod": 0,
+  "typeGetParam": 1,
+  "isPaintRuby": 2,
+  "isBankQr": 1
+},
+{
+  "nameServer": "Máy Chủ Tân Binh",
+  "address": "antiv2.xunglord.com",
+  "port": 1011,
+  "language": 0,
+  "typeSv": 1,
+  "homeUrl": "caubenro.online",
+  "logoUrl": "",
+  "isUnLockOptionTemplate": 0,
+  "listPorata": "454,921,1541,1255,1324,1514",
+  "typeReadHpMod": 0,
+  "typeGetParam": 1,
+  "isPaintRuby": 2,
+  "isBankQr": 1
+},
+{
+  "nameServer": "Liên Server",
+  "address": "antiv2.xunglord.com",
+  "port": 1011,
+  "language": 0,
+  "typeSv": 1,
+  "homeUrl": "caubenro.online",
+  "logoUrl": "",
+  "isUnLockOptionTemplate": 0,
+  "listPorata": "454,921,1541,1255,1324,1514",
+  "typeReadHpMod": 0,
+  "typeGetParam": 1,
+  "isPaintRuby": 2,
+  "isBankQr": 1
+}
+]
